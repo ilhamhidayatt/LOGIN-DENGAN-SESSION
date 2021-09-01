@@ -1,0 +1,65 @@
+body{
+	font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 21px;
+	background: #4ab4c0;
+}
+ 
+h1{
+	text-align: center;
+	font-weight: 300;
+}
+ 
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+ 
+.kotak_login{
+	width: 200px;
+	background: yellow;
+  border: 4px solid white;
+  padding: 10px;
+    width: 350px;
+    color: black;
+    margin: 20px auto;
+    border-radius: 40px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 13pt;
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+  width: 200px;
+  border: 1px solid black;
+  padding: 10px;
+    width: 350px;
+    color: black;
+    margin: 20px auto;
+    border-radius: 40px;
+    border-radius: 5px;
+ 
+}
+ 
+.tombol_login{
+	background: #46de4b;
+	color:blue;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+ 
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
